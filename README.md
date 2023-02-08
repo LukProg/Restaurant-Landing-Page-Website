@@ -1,5 +1,7 @@
 # Restaurant Landing Page Website - README
 
+Tutorial from JavaScriptMastery
+
 This is a project to create a modern and user-friendly restaurant landing page website. The website is built using React and CSS.
 
 ## CSS BEM Model

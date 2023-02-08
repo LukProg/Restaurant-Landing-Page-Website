@@ -1,3 +1,21 @@
+# Restaurant Landing Page Website - README
+
+This is a project to create a modern and user-friendly restaurant landing page website. The website is built using React and CSS.
+
+## CSS BEM Model
+
+The CSS in this project follows the BEM (Block Element Modifier) methodology, which makes it easier to understand and maintain the stylesheet. BEM uses a syntax to structure CSS class names, making it more clear and readable.
+
+## Responsiveness
+
+The website has been tested on different devices and screen sizes to ensure satisfactory responsiveness. Media queries have been used to adjust the layout for different screens.
+
+## Built With
+
+React - JavaScript library for building user interfaces
+
+CSS - Style sheet language used for describing the presentation of a document written in HTML
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
